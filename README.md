@@ -1,6 +1,6 @@
 # Folder Manager
 
-Folder Manager was created to manage ur Downloads File.It moves every file in the folder to the folder u want them to be according to their extension
+Folder Manager was created to manage ur Downloads File.It moves every file in the folder except the folders you want ur files or folder to go by their extensions , and then it start listening for event in the folder by watchdog library , when a file is created it check the extension and move the file to the corresponding folder. 
 
 ## Python library needed
 ```bash
