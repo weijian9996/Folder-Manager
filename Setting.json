@@ -1,0 +1,16 @@
+{
+    "source":"/Users/weiji/Downloads",
+
+    "folders":{
+        "images":[".png", ".jpg", ".jpeg", ".gif"],
+
+        "videos":[".mp4", ".mkv", ".avi", ".mov"],
+
+        "documents":[".pdf",".docx",".txt",".doc",".py",".js",".csv"],
+
+        "zips":[".zip",".rar",".tar",".7z"],
+
+        "others":[]
+        }
+    
+}
